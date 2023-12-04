@@ -12,6 +12,10 @@ function App() {
           rel="noopener noreferrer"
         >
           NBA Tracker
+          This is a test for our website.
+        </a>
+        <a>
+        
         </a>
       </header>
     </div>
