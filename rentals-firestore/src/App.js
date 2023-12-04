@@ -12,6 +12,7 @@ function App() {
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
         crossorigin="anonymous"/>
       </head>
+      
         <a>
           <div class="jumbotron">
             <h1 class="display-3">NBA Stats Tracker</h1>
@@ -19,11 +20,16 @@ function App() {
             <hr class="my-2">
             </hr>
             <p>Our page will update at the start of every week.</p>
-            <p class="lead">
+            {/* <p class="lead">
               <a class="btn btn-primary btn-lg" href="https://nba.com" role="button">NBA.com</a>
-            </p>
+            </p> */}
           </div>
         </a>
+        <div>
+      <button class="button">Points</button>
+      <button class="button">Rebounds</button>
+      <button class="button">Assists</button>
+    </div>
       </header>
     </div>
   );
