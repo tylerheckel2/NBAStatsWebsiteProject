@@ -5,17 +5,19 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a
-          className="App-link"
-          href="https://nba.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          NBA Tracker
-        </a>
         <a>
-          <img class="d-flex align-self-start mr-2" width = "450" length = "450" src="nba.jpg" alt="Placeholder image"></img>
+        <div class="jumbotron">
+          <h1 class="display-3">NBA Stats Tracker</h1>
+          <p class="lead">On our website, we keep track of NBA Statistics by tracking players weekly.</p>
+          <hr class="my-2">
+          </hr>
+          <p>Our page will update at the start of every week.</p>
+          <p class="lead">
+            <a class="btn btn-primary btn-lg" href="https://nba.com" role="button">NBA.com</a>
+          </p>
+        </div>
         </a>
+
       </header>
     </div>
   );
