@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
+
 function App() {
   return (
     <div className="App">
@@ -26,9 +27,9 @@ function App() {
           </div>
         </a>
         <div>
-      <button class="button">Points</button>
-      <button class="button">Rebounds</button>
-      <button class="button">Assists</button>
+          <button class="button">Points</button>
+          <button class="button">Rebounds</button>
+          <button class="button">Assists</button>
     </div>
       </header>
     </div>
