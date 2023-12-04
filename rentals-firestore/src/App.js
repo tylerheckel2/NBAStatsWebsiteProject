@@ -12,10 +12,9 @@ function App() {
           rel="noopener noreferrer"
         >
           NBA Tracker
-          This is a test for our website.
         </a>
         <a>
-        
+          <img class="d-flex align-self-start mr-2" width = "450" length = "450" src="nba.jpg" alt="Placeholder image"></img>
         </a>
       </header>
     </div>
