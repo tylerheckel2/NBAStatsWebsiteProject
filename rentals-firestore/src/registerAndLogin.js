@@ -4,6 +4,7 @@ import { database } from "./firebase";
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
 import HomeScreen from "./Home";
+import PointsPage from "./points";
 
 
 function RegisterAndLogin() {
@@ -68,6 +69,7 @@ function App() {
       <Routes>
         <Route path="/" element={<RegisterAndLogin />} />
         <Route path="/home" element ={<HomeScreen/>}/>
+        <Route path="/points" element ={<PointsPage/>}/>
         {/* Add more routes if needed */}
       </Routes>
     </Router>

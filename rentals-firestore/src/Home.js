@@ -2,6 +2,7 @@ import React from "react";
 import {database} from './firebase'
 import {useNavigate} from "react-router-dom";
 import { signOut } from "firebase/auth";
+import PointsPage from "./points";
 
 function HomeScreen(){
     const history = useNavigate()
@@ -11,6 +12,12 @@ function HomeScreen(){
             console.log(val, "val" )
             history('/')
         })
+    }
+
+    let navigate = useNavigate(); 
+    const routeChange = () =>{ 
+        let path = `/points`; 
+        navigate(path);
     }
  
     return (
@@ -37,7 +44,7 @@ function HomeScreen(){
               </div>
             </a>
             <div>
-              <button class="button">Points</button>
+              <button class="button" onClick = {routeChange}>Points</button>
               <button class="button">Rebounds</button>
               <button class="button">Assists</button>
             </div>

@@ -3,6 +3,7 @@ import {database} from './firebase'
 import {useNavigate} from "react-router-dom";
 import { signOut } from "firebase/auth";
 
+
 function PointsPage(){
     const history = useNavigate()
 
@@ -12,6 +13,13 @@ function PointsPage(){
             history('/')
         })
     }
+
+    let navigate = useNavigate(); 
+    const routeChange = () =>{ 
+        let path = `/home`; 
+        navigate(path);
+    }
+
  
     return (
         <div className="App">
@@ -25,11 +33,10 @@ function PointsPage(){
           </head>
 
             <div>
-              <button class="button">Points</button>
-              <button class="button">Rebounds</button>
-              <button class="button">Assists</button>
+              <button class="button" onClick = {routeChange}>Home</button>
             </div>
             
+            <center>
             <div>
             <h1>Points Per Game Leaders for the Week of 11/27/23:</h1>
             
@@ -86,6 +93,8 @@ function PointsPage(){
                 </tr>
             </table>
             </div>
+            </center>
+
             <div>
               <p></p>
               <img class="card-img-top" src="haliburton.jpeg" width = "50%" alt="Photo of Tyrese Haliburton"/>
