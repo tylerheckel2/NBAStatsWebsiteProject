@@ -5,6 +5,8 @@ import { createUserWithEmailAndPassword, signInWithEmailAndPassword } from "fire
 import { useNavigate } from "react-router-dom";
 import HomeScreen from "./Home";
 import PointsPage from "./points";
+import ReboundsPage from "./rebounds";
+import AssistsPage from "./assists";
 
 
 function RegisterAndLogin() {
@@ -70,6 +72,8 @@ function App() {
         <Route path="/" element={<RegisterAndLogin />} />
         <Route path="/home" element ={<HomeScreen/>}/>
         <Route path="/points" element ={<PointsPage/>}/>
+        <Route path="/rebounds" element ={<ReboundsPage/>}/>
+        <Route path="/assists" element ={<AssistsPage/>}/>
         {/* Add more routes if needed */}
       </Routes>
     </Router>
