@@ -47,7 +47,7 @@ function HomeScreen(){
             
             <table>
                 <tr>
-                    <th>Tyrese Haliburton</th>
+                    <th >Tyrese Haliburton</th>
                     <th> </th>
                     <th>38.5 PPG</th>
                 </tr>
