@@ -3,6 +3,8 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import { database } from "./firebase";
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
+import HomeScreen from "./Home";
+
 
 function RegisterAndLogin() {
   const [login, setLogin] = useState(false);
@@ -65,6 +67,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<RegisterAndLogin />} />
+        <Route path="/home" element ={<HomeScreen/>}/>
         {/* Add more routes if needed */}
       </Routes>
     </Router>

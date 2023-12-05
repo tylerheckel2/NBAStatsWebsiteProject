@@ -8,7 +8,7 @@ import RegisterAndLogin from './registerAndLogin';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <RegisterAndLogin />
   </React.StrictMode>
 );
 
