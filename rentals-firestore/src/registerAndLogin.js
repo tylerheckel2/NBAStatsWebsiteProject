@@ -46,20 +46,20 @@ function RegisterAndLogin() {
       {/* Registration and Login Screen */}
       <div className="row">
         <div className={login === false ? "activeColor" : "pointer"} onClick={() => setLogin(false)}>
-          SignUp
+          Sign Up
         </div>
         <div className={login === true ? "activeColor" : "pointer"} onClick={() => setLogin(true)}>
-          SignIn
+          Sign In
         </div>
       </div>
-      <h1>{login ? "SignIn" : "SignUp"}</h1>
+      <h1>{login ? "Sign In" : "Sign Up"}</h1>
       <form onSubmit={(e) => handleSubmit(e, login ? "signin" : "signup")}>
         <input name="email" placeholder="Email" />
         <br />
         <input name="password" type="password" placeholder="Password" />
         <br />
         <br />
-        <button>{login ? "SignIn" : "SignUp"}</button>
+        <button>{login ? "Sign In" : "Sign Up"}</button>
       </form>
     </div>
   );
@@ -70,7 +70,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/" element={<RegisterAndLogin />} />
-        <Route path="/home" element ={<HomeScreen/>}/>
+         <Route path="/home" element ={<HomeScreen/>}/>
         <Route path="/points" element ={<PointsPage/>}/>
         <Route path="/rebounds" element ={<ReboundsPage/>}/>
         <Route path="/assists" element ={<AssistsPage/>}/>

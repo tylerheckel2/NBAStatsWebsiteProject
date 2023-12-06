@@ -3,7 +3,6 @@ import {database} from './firebase'
 import {useNavigate} from "react-router-dom";
 import { signOut } from "firebase/auth";
 
-
 function PointsPage(){
     const history = useNavigate()
 

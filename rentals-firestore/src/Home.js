@@ -56,10 +56,63 @@ function HomeScreen(){
               </div>
             </a>
             <div>
+              <br></br>
               <button class="button" onClick = {routeChange}>Points</button>
               <button class="button" onClick = {reboundsRouteChange}>Rebounds</button>
               <button class="button" onClick = {assistsRouteChange}>Assists</button>
             </div>
+            <div>
+              <br></br>
+              <br></br>
+              <h1>Key Matchups for the Upcoming Week</h1>
+              <p>Week of December 4, 2023</p>
+            </div>
+
+            <table>
+              <tr>
+                <th>12/4 - Boston Celtics vs. Indiana Pacers - (IST East Quarterfinal)</th>
+              </tr>
+              <tr>
+                <th>12/4 - New Orleans Pelicans vs. Sacramento Kings - (IST West Quarterfinal)</th> 
+              </tr>
+              <tr>
+                <th>12/5 - New York Knicks vs. Milwaukee Bucks - (IST East Quarterfinal)</th>
+              </tr>
+              <tr>
+                <th>12/5 - Phoenix Suns vs. Los Angeles Lakers - (IST West Quarterfinal)</th>
+              </tr>
+              <tr>
+                <th>12/6 - Los Angeles Clippers vs. Denver Nuggets - (ESPN Game)</th>
+              </tr>
+              <tr>
+                <th>12/7 - Winner of BOS/IND vs Winner of NYK/MKE - (IST East Semifinal)</th>
+              </tr>
+              <tr>
+                <th>12/7 - Winner of NOLA/SAC vs Winner of PHX/LAL - (IST West Semifinal)</th>
+              </tr>
+              <tr>
+                <th>12/8 - Los Angeles Clippers vs. Utah Jazz - (ESPN Game)</th>
+              </tr>
+              <tr>
+                <th>12/9 - IST Championship Game - Teams TBD </th>
+              </tr>
+              <br></br>
+            </table>
+            
+            <div>
+              <p></p>
+              <img class="card-img-top" src="IST.png" width = "70%" alt="Photo of the IST Bracket"/>
+              <p></p>
+              <br></br>
+              <h1>What is the In Season Tournament?</h1>
+              <p>Newly approved for the 2023-24 NBA season, the In Season Tournament is a competitive addition to the league.</p>
+              <p>The tournament begins with a group stage, where teams battle for their place in the Quarterfinal round.</p>
+              <p>After the group stage, the remaining teams play single elimination games to make their way through the bracket.</p>
+              <p>The winner of the tournament receives special IST trophies and 500k per player.</p>
+              <br></br>
+              <br></br>
+            </div>
+
           </header>
         </div>
       );
