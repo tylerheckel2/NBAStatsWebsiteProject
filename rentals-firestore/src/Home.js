@@ -47,16 +47,18 @@ function HomeScreen(){
               <div class="jumbotron">
                 <br></br>
                 <h1 class="display-3">NBA Stats Tracker</h1>
-                <p class="lead">On our website, we keep track of NBA Statistics by tracking players weekly.</p>
+                <p class="lead">On our website we track NBA Statistics weekly.</p>
                 <hr class="my-2">
                 </hr>
-                <p>Our page will update at the start of every week.</p>
+                <p>Our page will update at the beginning of every week.</p>
+                <p>Page created by Tyler Heckel, Colin Hegarty, and Brendan Quigley.</p>
                 {/* <p class="lead">
                   <a class="btn btn-primary btn-lg" href="https://nba.com" role="button">NBA.com</a>
                 </p> */}
               </div>
             </a>
             <div>
+              <br></br>
               <br></br>
               <button class="button" onClick = {routeChange}>Points</button>
               <button class="button" onClick = {reboundsRouteChange}>Rebounds</button>
@@ -71,31 +73,31 @@ function HomeScreen(){
 
             <table>
               <tr>
-                <th>12/4 - Boston Celtics vs. Indiana Pacers - (IST East Quarterfinal)</th>
+                <th>12/4 - Boston Celtics vs. Indiana Pacers - (IST East Quarterfinal) <img class="card-img-top" src="istlogo.jpg" width = "5%" alt="Photo of the IST"/></th>
               </tr>
               <tr>
-                <th>12/4 - New Orleans Pelicans vs. Sacramento Kings - (IST West Quarterfinal)</th> 
+                <th>12/4 - New Orleans Pelicans vs. Sacramento Kings - (IST West Quarterfinal)  <img class="card-img-top" src="istlogo.jpg" width = "5%" alt="Photo of the IST"/></th> 
               </tr>
               <tr>
-                <th>12/5 - New York Knicks vs. Milwaukee Bucks - (IST East Quarterfinal)</th>
+                <th>12/5 - New York Knicks vs. Milwaukee Bucks - (IST East Quarterfinal)  <img class="card-img-top" src="istlogo.jpg" width = "5%" alt="Photo of the IST"/></th>
               </tr>
               <tr>
-                <th>12/5 - Phoenix Suns vs. Los Angeles Lakers - (IST West Quarterfinal)</th>
+                <th>12/5 - Phoenix Suns vs. Los Angeles Lakers - (IST West Quarterfinal)  <img class="card-img-top" src="istlogo.jpg" width = "5%" alt="Photo of the IST"/></th>
               </tr>
               <tr>
-                <th>12/6 - Los Angeles Clippers vs. Denver Nuggets - (ESPN Game)</th>
+                <th>12/6 - Los Angeles Clippers vs. Denver Nuggets - (ESPN Game)  <img class="card-img-top" src="espn.jpg" width = "5%" alt="Photo of the ESPN Logo"/></th>
               </tr>
               <tr>
-                <th>12/7 - Winner of BOS/IND vs Winner of NYK/MKE - (IST East Semifinal)</th>
+                <th>12/7 - Winner of BOS/IND vs Winner of NYK/MKE - (IST East Semifinal)  <img class="card-img-top" src="istlogo.jpg" width = "5%" alt="Photo of the IST"/></th>
               </tr>
               <tr>
-                <th>12/7 - Winner of NOLA/SAC vs Winner of PHX/LAL - (IST West Semifinal)</th>
+                <th>12/7 - Winner of NOLA/SAC vs Winner of PHX/LAL - (IST West Semifinal)  <img class="card-img-top" src="istlogo.jpg" width = "5%" alt="Photo of the IST"/></th>
               </tr>
               <tr>
-                <th>12/8 - Los Angeles Clippers vs. Utah Jazz - (ESPN Game)</th>
+                <th>12/8 - Los Angeles Clippers vs. Utah Jazz - (ESPN Game)  <img class="card-img-top" src="espn.jpg" width = "5%" alt="Photo of the ESPN Logo"/></th>
               </tr>
               <tr>
-                <th>12/9 - IST Championship Game - Teams TBD </th>
+                <th>12/9 - IST Championship Game - Teams TBD <img class="card-img-top" src="istlogo.jpg" width = "5%" alt="Photo of the IST"/> </th>
               </tr>
               <br></br>
             </table>
