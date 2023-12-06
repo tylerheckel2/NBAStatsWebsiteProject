@@ -32,9 +32,13 @@ function ReboundsPage(){
             crossorigin="anonymous"/>
           </head>
 
+            <br></br>
+
             <div>
               <button class="button" onClick = {routeChange}>Home</button>
             </div>
+
+            <br></br>
             
             <center>
             <div>
@@ -99,6 +103,9 @@ function ReboundsPage(){
               <img class="card-img-top" src="anthonydavis.jpg" width = "50%" alt="Photo of Anthony Davis"/>
               <p></p>
             </div>
+
+
+
             </center>
           </header>
         </div>

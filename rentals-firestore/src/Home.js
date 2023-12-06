@@ -45,6 +45,7 @@ function HomeScreen(){
           
             <a>
               <div class="jumbotron">
+                <br></br>
                 <h1 class="display-3">NBA Stats Tracker</h1>
                 <p class="lead">On our website, we keep track of NBA Statistics by tracking players weekly.</p>
                 <hr class="my-2">
@@ -112,7 +113,7 @@ function HomeScreen(){
               <br></br>
               <br></br>
             </div>
-
+                
           </header>
         </div>
       );

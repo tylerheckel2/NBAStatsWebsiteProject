@@ -32,10 +32,14 @@ function AssistsPage(){
             crossorigin="anonymous"/>
           </head>
 
+            <br></br>
+
             <div>
               <button class="button" onClick = {routeChange}>Home</button>
             </div>
             
+            <br></br>
+
             <center>
             <div>
             <h1>Assists Per Game Leaders for the Week of 11/27/23:</h1>

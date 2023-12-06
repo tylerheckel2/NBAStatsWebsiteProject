@@ -29,12 +29,17 @@ function PointsPage(){
             //href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" 
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
             crossorigin="anonymous"/>
+            
           </head>
+
+            <br></br>
 
             <div>
               <button class="button" onClick = {routeChange}>Home</button>
             </div>
-            
+
+            <br></br>
+
             <center>
             <div>
             <h1>Points Per Game Leaders for the Week of 11/27/23:</h1>
@@ -99,8 +104,8 @@ function PointsPage(){
               <img class="card-img-top" src="haliburton.jpeg" width = "50%" alt="Photo of Tyrese Haliburton"/>
               <p></p>
             </div>
-          </header>
-        </div>
-      );
+    </header>
+    </div>
+    );
 }
 export default PointsPage;
