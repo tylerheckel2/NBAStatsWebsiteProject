@@ -27,7 +27,7 @@ function ReboundsPage(){
           <head>
             <title> Brendan, Tyler, Colin's Project </title>
             <link rel="stylesheet" 
-            //href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" 
+            href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" 
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
             crossorigin="anonymous"/>
           </head>
@@ -43,68 +43,119 @@ function ReboundsPage(){
             <center>
             <div>
             <h1>Rebounds Per Game Leaders for the Week of 11/27/23:</h1>
-            
-            <table class = "center">
-                <tr>
-                    <th>Anthony Davis</th>
-                    <th> </th>
-                    <th>13.8 RPG</th>
-                </tr>
-                <tr>
-                    <th>Rudy Gobert</th>
-                    <th> </th>
-                    <th>13.7 RPG</th>
-                </tr>
-                <tr>
-                    <th>Julius Randle</th>
-                    <th> </th>
-                    <th>13.3 RPG</th>
-                </tr>
-                <tr>
-                    <th>Evan Mobley</th>
-                    <th> </th>
-                    <th>12.7 RPG</th>
-                </tr>
-                <tr>
-                    <th>Victor Wembanyama</th>
-                    <th> </th>
-                    <th>12.0 RPG</th>
-                </tr>
-                <tr>
-                    <th>Luka Doncic</th>
-                    <th> </th>
-                    <th>12.0 RPG</th>
-                </tr>
-                <tr>
-                    <th>Giannis Antetokounmpo</th>
-                    <th> </th>
-                    <th>11.7 RPG</th>
-                </tr>
-                <tr>
-                    <th>Clint Capela</th>
-                    <th> </th>
-                    <th>11.7 RPG</th>
-                </tr>
-                <tr>
-                    <th>Dennis Smith Jr.</th>
-                    <th> </th>
-                    <th>11.0 RPG</th>
-                </tr>
-                <tr>
-                    <th>Joel Embiid</th>
-                    <th> </th>
-                    <th>11.0 RPG</th>
-                </tr>
-            </table>
             </div>
     
-            <div>
-              <p></p>
-              <img class="card-img-top" src="anthonydavis.jpg" width = "50%" alt="Photo of Anthony Davis"/>
-              <p></p>
+            <br></br>
+            
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="anthonydavis.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">1. Anthony Davis</h1>
+                <h3>13.8 RPG</h3>
+                <h3>Games Played: 4</h3>
+                </div>
             </div>
 
+            <br></br>
 
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="gobert.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">2. Rudy Gobert</h1>
+                <h3>13.7 RPG</h3>
+                <h3>Games Played: 3</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="randle.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">3. Julius Randle</h1>
+                <h3>13.3 RPG</h3>
+                <h3>Games Played: 3</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="mobley.jpeg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">4. Evan Mobley</h1>
+                <h3>12.7 RPG</h3>
+                <h3>Games Played: 3</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="wemby.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">5. Victor Wembanyama</h1>
+                <h3>12.0 RPG</h3>
+                <h3>Games Played: 1</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="luka.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">6. Luka Doncic</h1>
+                <h3>12.0 RPG</h3>
+                <h3>Games Played: 2</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="giannis.jpeg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">7. Giannis Antetokounmpo</h1>
+                <h3>11.7 RPG</h3>
+                <h3>Games Played: 3</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="capela.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">8. Clint Capela</h1>
+                <h3>11.7 RPG</h3>
+                <h3>Games Played: 3</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="dsj.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">9. Dennis Smith Jr.</h1>
+                <h3>11.0 RPG</h3>
+                <h3>Games Played: 1</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="embiid2.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">10. Joel Embiid</h1>
+                <h3>11.0 RPG</h3>
+                <h3>Games Played: 1</h3>
+                </div>
+            </div>
+        
+            <br></br>
 
             </center>
           </header>

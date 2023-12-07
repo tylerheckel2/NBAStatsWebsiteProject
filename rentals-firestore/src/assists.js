@@ -27,7 +27,7 @@ function AssistsPage(){
           <head>
             <title> Brendan, Tyler, Colin's Project </title>
             <link rel="stylesheet" 
-            //href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" 
+            href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" 
             integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" 
             crossorigin="anonymous"/>
           </head>
@@ -43,66 +43,129 @@ function AssistsPage(){
             <center>
             <div>
             <h1>Assists Per Game Leaders for the Week of 11/27/23:</h1>
+            </div>
+
+            <br></br>
             
-            <table>
-                <tr>
-                    <th>Nikola Jokic</th>
-                    <th> </th>
-                    <th>15.0 APG</th>
-                </tr>
-                <tr>
-                    <th>Luka Doncic</th>
-                    <th> </th>
-                    <th>13.5 APG</th>
-                </tr>
-                <tr>
-                    <th>Trae Young</th>
-                    <th> </th>
-                    <th>12.0 APG</th>
-                </tr>
-                <tr>
-                    <th>Joel Embiid</th>
-                    <th> </th>
-                    <th>11.0 APG</th>
-                </tr>
-                <tr>
-                    <th>Damian Lillard</th>
-                    <th> </th>
-                    <th>10.3 APG</th>
-                </tr>
-                <tr>
-                    <th>Dennis Schroder</th>
-                    <th> </th>
-                    <th>10.0 APG</th>
-                </tr>
-                <tr>
-                    <th>Fred VanVleet</th>
-                    <th> </th>
-                    <th>9.5 APG</th>
-                </tr>
-                <tr>
-                    <th>Tyrese Haliburton</th>
-                    <th> </th>
-                    <th>9.5 APG</th>
-                </tr>
-                <tr>
-                    <th>De'Aaron Fox</th>
-                    <th> </th>
-                    <th>8.7 APG</th>
-                </tr>
-                <tr>
-                    <th>Mike Conley</th>
-                    <th> </th>
-                    <th>8.3 APG</th>
-                </tr>
-            </table>
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="jokicpic.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">1. Nikola Jokic</h1>
+                <h3>15.0 APG</h3>
+                <h3>TOV: 3</h3>
+                <h3>Games Played: 3</h3>
+                </div>
             </div>
-    
-            <div>
-              <p></p>
-              <img class="card-img-top" src="jokicpic.jpg" width = "50%" alt="Photo of Nikola Jokic"/>
-              <p></p>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="luka.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">2. Luka Doncic</h1>
+                <h3>13.5 APG</h3>
+                <h3>TOV: 7</h3>
+                <h3>Games Played: 2</h3>
+                </div>
             </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="young.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">3. Trae Young</h1>
+                <h3>12.0 APG</h3>
+                <h3>TOV: 9</h3>
+                <h3>Games Played: 3</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="embiid2.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">4. Joel Embiid</h1>
+                <h3>11.0 APG</h3>
+                <h3>TOV: 3</h3>
+                <h3>Games Played: 1</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="lillard.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">5. Damian Lillard</h1>
+                <h3>10.3 APG</h3>
+                <h3>TOV: 12</h3>
+                <h3>Games Played: 3</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="dennis.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">6. Dennis Schroder</h1>
+                <h3>10.0 APG</h3>
+                <h3>TOV: 2</h3>
+                <h3>Games Played: 3</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="fvv.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">7. Fred VanVleet</h1>
+                <h3>9.5 APG</h3>
+                <h3>TOV: 3</h3>
+                <h3>Games Played: 2</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="haliburton.jpeg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">8. Tyrese Haliburton</h1>
+                <h3>9.5 APG</h3>
+                <h3>TOV: 5</h3>
+                <h3>Games Played: 2</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="fox.jpg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">9. De'Aaron Fox</h1>
+                <h3>8.7 APG</h3>
+                <h3>TOV: 7</h3>
+                <h3>Games Played: 3</h3>
+                </div>
+            </div>
+
+            <br></br>
+
+            <div class="media">
+                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="conley.jpeg" alt="Placeholder image"/>
+                <div class="media-body">
+                <h1 class="mt-10">10. Mike Conley</h1>
+                <h3>8.3 APG</h3>
+                <h3>TOV: 3</h3>
+                <h3>Games Played: 3</h3>
+                </div>
+            </div>
+            
+            <br></br>
 
             </center>
           </header>

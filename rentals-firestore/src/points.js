@@ -55,6 +55,9 @@ function PointsPage(){
                 <div class="media-body">
                 <h1 class="mt-10">1. Tyrese Haliburton</h1>
                 <h3>38.5 PPG</h3>
+                <h3>FG%: 57.8%</h3>
+                <h3>3FG%: 40.9%</h3>
+                <h3>Games Played: 2</h3>
                 </div>
             </div>
 
@@ -65,6 +68,9 @@ function PointsPage(){
                 <div class="media-body">
                 <h1 class="mt-10">2. Luka Doncic</h1>
                 <h3>38.5 PPG</h3>
+                <h3>FG%: 51.0%</h3>
+                <h3>3FG%: 34.8%</h3>
+                <h3>Games Played: 2</h3>
                 </div>
             </div>
 
@@ -75,6 +81,9 @@ function PointsPage(){
                 <div class="media-body">
                 <h1 class="mt-10">3. Jimmy Butler</h1>
                 <h3>34.5 PPG</h3>
+                <h3>FG%: 50.0%</h3>
+                <h3>3FG%: 0.0%</h3>
+                <h3>Games Played: 2</h3>
                 </div>
             </div>
 
@@ -85,6 +94,9 @@ function PointsPage(){
                 <div class="media-body">
                 <h1 class="mt-10">4. Tyrese Maxey</h1>
                 <h3>32.0 PPG</h3>
+                <h3>FG%: 48.9%</h3>
+                <h3>3FG%: 36.4%</h3>
+                <h3>Games Played: 2</h3>
                 </div>
             </div>
 
@@ -95,6 +107,9 @@ function PointsPage(){
                 <div class="media-body">
                 <h1 class="mt-10">5. De'Aaron Fox</h1>
                 <h3>31.7 PPG</h3>
+                <h3>FG%: 50.8%</h3>
+                <h3>3FG%: 36.4%</h3>
+                <h3>Games Played: 3</h3>
                 </div>
             </div>
 
@@ -105,6 +120,9 @@ function PointsPage(){
                 <div class="media-body">
                 <h1 class="mt-10">6. Giannis Antetokounmpo</h1>
                 <h3>30.3 PPG</h3>
+                <h3>FG%: 67.9%</h3>
+                <h3>3FG%: 25.0%</h3>
+                <h3>Games Played: 3</h3>
                 </div>
             </div>
 
@@ -115,6 +133,9 @@ function PointsPage(){
                 <div class="media-body">
                 <h1 class="mt-10">7. Trae Young</h1>
                 <h3>30.0 PPG</h3>
+                <h3>FG%: 43.7%</h3>
+                <h3>3FG%: 30.0%</h3>
+                <h3>Games Played: 3</h3>
                 </div>
             </div>
 
@@ -125,6 +146,9 @@ function PointsPage(){
                 <div class="media-body">
                 <h1 class="mt-10">8. Joel Embiid</h1>
                 <h3>30.0 PPG</h3>
+                <h3>FG%: 60.0%</h3>
+                <h3>3FG%: 66.7%</h3>
+                <h3>Games Played: 1</h3>
                 </div>
             </div>
 
@@ -135,6 +159,9 @@ function PointsPage(){
                 <div class="media-body">
                 <h1 class="mt-10">9. Nikola Jokic</h1>
                 <h3>29.7 PPG</h3>
+                <h3>FG%: 56.7%</h3>
+                <h3>3FG%: 22.2%</h3>
+                <h3>Games Played: 3</h3>
                 </div>
             </div>
 
@@ -145,6 +172,9 @@ function PointsPage(){
                 <div class="media-body">
                 <h1 class="mt-10">10. Kevin Durant</h1>
                 <h3>29.0 PPG</h3>
+                <h3>FG%: 42.0%</h3>
+                <h3>3FG%: 35.7%</h3>
+                <h3>Games Played: 3</h3>
                 </div>
             </div>
             
