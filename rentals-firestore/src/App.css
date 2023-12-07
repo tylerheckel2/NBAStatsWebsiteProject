@@ -37,6 +37,12 @@
   }
 }
 
+.ImageBorder
+{
+    border-width: 50px;
+    border-color: Black;
+}
+
 /* h1 {
   font-size: 2.8em;
   font-weight: bold;

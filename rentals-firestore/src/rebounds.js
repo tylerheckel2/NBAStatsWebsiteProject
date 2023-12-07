@@ -48,7 +48,7 @@ function ReboundsPage(){
             <br></br>
             
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="anthonydavis.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="anthonydavis.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">1. Anthony Davis</h1>
                 <h3>13.8 RPG</h3>
@@ -59,7 +59,7 @@ function ReboundsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="gobert.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="gobert.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">2. Rudy Gobert</h1>
                 <h3>13.7 RPG</h3>
@@ -70,7 +70,7 @@ function ReboundsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="randle.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="randle.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">3. Julius Randle</h1>
                 <h3>13.3 RPG</h3>
@@ -81,7 +81,7 @@ function ReboundsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="mobley.jpeg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="mobley.jpeg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">4. Evan Mobley</h1>
                 <h3>12.7 RPG</h3>
@@ -92,7 +92,7 @@ function ReboundsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="wemby.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="wemby.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">5. Victor Wembanyama</h1>
                 <h3>12.0 RPG</h3>
@@ -103,7 +103,7 @@ function ReboundsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="luka.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="luka.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">6. Luka Doncic</h1>
                 <h3>12.0 RPG</h3>
@@ -114,7 +114,7 @@ function ReboundsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="giannis.jpeg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="giannis.jpeg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">7. Giannis Antetokounmpo</h1>
                 <h3>11.7 RPG</h3>
@@ -125,7 +125,7 @@ function ReboundsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="capela.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="capela.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">8. Clint Capela</h1>
                 <h3>11.7 RPG</h3>
@@ -136,7 +136,7 @@ function ReboundsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="dsj.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="dsj.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">9. Dennis Smith Jr.</h1>
                 <h3>11.0 RPG</h3>
@@ -147,7 +147,7 @@ function ReboundsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="embiid2.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="embiid2.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">10. Joel Embiid</h1>
                 <h3>11.0 RPG</h3>

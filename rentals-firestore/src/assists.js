@@ -48,7 +48,7 @@ function AssistsPage(){
             <br></br>
             
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="jokicpic.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="jokicpic.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">1. Nikola Jokic</h1>
                 <h3>15.0 APG</h3>
@@ -60,7 +60,7 @@ function AssistsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="luka.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="luka.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">2. Luka Doncic</h1>
                 <h3>13.5 APG</h3>
@@ -72,7 +72,7 @@ function AssistsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="young.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="young.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">3. Trae Young</h1>
                 <h3>12.0 APG</h3>
@@ -84,7 +84,7 @@ function AssistsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="embiid2.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="embiid2.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">4. Joel Embiid</h1>
                 <h3>11.0 APG</h3>
@@ -96,7 +96,7 @@ function AssistsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="lillard.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="lillard.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">5. Damian Lillard</h1>
                 <h3>10.3 APG</h3>
@@ -108,7 +108,7 @@ function AssistsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="dennis.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="dennis.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">6. Dennis Schroder</h1>
                 <h3>10.0 APG</h3>
@@ -120,7 +120,7 @@ function AssistsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="fvv.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="fvv.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">7. Fred VanVleet</h1>
                 <h3>9.5 APG</h3>
@@ -132,7 +132,7 @@ function AssistsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="haliburton.jpeg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="haliburton.jpeg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">8. Tyrese Haliburton</h1>
                 <h3>9.5 APG</h3>
@@ -144,7 +144,7 @@ function AssistsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="fox.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="fox.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">9. De'Aaron Fox</h1>
                 <h3>8.7 APG</h3>
@@ -156,7 +156,7 @@ function AssistsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="conley.jpeg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="conley.jpeg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">10. Mike Conley</h1>
                 <h3>8.3 APG</h3>

@@ -49,9 +49,11 @@ function PointsPage(){
             </center>
 
             <br></br>
+
+           
             
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="haliburton.jpeg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="haliburton.jpeg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">1. Tyrese Haliburton</h1>
                 <h3>38.5 PPG</h3>
@@ -64,7 +66,7 @@ function PointsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="luka.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="luka.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">2. Luka Doncic</h1>
                 <h3>38.5 PPG</h3>
@@ -77,7 +79,7 @@ function PointsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="jimmy.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="jimmy.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">3. Jimmy Butler</h1>
                 <h3>34.5 PPG</h3>
@@ -90,7 +92,7 @@ function PointsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="maxey.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="maxey.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">4. Tyrese Maxey</h1>
                 <h3>32.0 PPG</h3>
@@ -103,7 +105,7 @@ function PointsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="fox.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="fox.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">5. De'Aaron Fox</h1>
                 <h3>31.7 PPG</h3>
@@ -116,7 +118,7 @@ function PointsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="giannis.jpeg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="giannis.jpeg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">6. Giannis Antetokounmpo</h1>
                 <h3>30.3 PPG</h3>
@@ -129,7 +131,7 @@ function PointsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="young.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="young.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">7. Trae Young</h1>
                 <h3>30.0 PPG</h3>
@@ -142,7 +144,7 @@ function PointsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="embiid2.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="embiid2.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">8. Joel Embiid</h1>
                 <h3>30.0 PPG</h3>
@@ -155,7 +157,7 @@ function PointsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="jokicpic.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="jokicpic.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">9. Nikola Jokic</h1>
                 <h3>29.7 PPG</h3>
@@ -168,7 +170,7 @@ function PointsPage(){
             <br></br>
 
             <div class="media">
-                <img class="d-flex align-self-start mr-1" width = "550" length = "550" src="kd.jpg" alt="Placeholder image"/>
+                <img class="d-flex align-self-start mr-4" width = "550" length = "550" src="kd.jpg" alt="Placeholder image"/>
                 <div class="media-body">
                 <h1 class="mt-10">10. Kevin Durant</h1>
                 <h3>29.0 PPG</h3>
